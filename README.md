@@ -1,3 +1,3 @@
 # cs151-project
 
-[hyperlinks]hyperlink
+[hyperlinks](hyperlink)
